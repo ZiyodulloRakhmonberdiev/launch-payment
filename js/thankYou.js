@@ -67,7 +67,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
 
 const SHEET_URL =
-  "https://script.google.com/macros/s/AKfycbymcTgrXfoQsy_9xP1DwfyvS-j5CyEoA_eh4bzwBrQwk_zpTB71bqFeWtKQWWo4EK5JRQ/exec";
+  "https://script.google.com/macros/s/AKfycbzF-LJnR2JDyUSIYRVcFYWegdrC7jU7oxkAbkzAUn3oLEEUjMnMwzgwAQuayJG0sklZ/exec";
 const PENDING_KEY = "pendingSubmission";
 
 // Utility: convert JS payload to FormData (Apps Script expects form payload)

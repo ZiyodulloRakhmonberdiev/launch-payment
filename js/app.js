@@ -396,7 +396,7 @@
       // Bir xil ma'lumot ikki marta yuborilmasligi uchun fingerprint tekshiruvi
       try {
         const SHEET_URL =
-          "https://script.google.com/macros/s/AKfycbymcTgrXfoQsy_9xP1DwfyvS-j5CyEoA_eh4bzwBrQwk_zpTB71bqFeWtKQWWo4EK5JRQ/exec";
+          "https://script.google.com/macros/s/AKfycbzF-LJnR2JDyUSIYRVcFYWegdrC7jU7oxkAbkzAUn3oLEEUjMnMwzgwAQuayJG0sklZ/exec";
         const LAST_SENT_KEY = "mfaktor_last_sent_payload_v1";
 
         const fingerprint = JSON.stringify({
